@@ -14,5 +14,8 @@ complete, filled, uniform velocity fields, without any gaps.
 After complete, continuous velocity fields are estimated, the notebook smooths the velocity fields and assesses the
 temporal variability of glacier velocities.
 
+This analysis was initiated in March 2022 for research led by Dakota Pyles, which uses the mass continuity equation to estimate
+glacier ablation.
+
 This notebook draws on the modules `rasterio` and `eofs`, both of which are present within the UI Glacier Dynamics
 environment `spatialenv22a`, created from `spatialenv.yml`.
